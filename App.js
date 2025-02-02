@@ -18,7 +18,7 @@ function App() {
         <Stack.Screen
           name="UserDetails"
           component={UserDetailsScreen}  // Correct component usage
-          options={{ title: 'Details' }}
+          options={{ title: 'Details :' }}
         />
       </Stack.Navigator>
     </NavigationContainer>
